@@ -1,0 +1,8 @@
+1. Install all the packages as mentioned in Pre-Requisite file. 
+2. Download the script and save it in some local folder
+3. Edit the script and enter the required details specific to user. 
+4. Save the script and open Task Scheduler
+5. Create a basic task to run the script multiple times a day 
+6. Thats it! Make sure your system is on for it to work. 
+7. You can also host the script on a server to remove the system dependency. 
+8. For more, feel free to drop an email at ayushcrazx@gmail.com
