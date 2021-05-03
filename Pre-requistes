@@ -1,0 +1,17 @@
+This script has various dependencies as mentioned below. Make sure you have these setup before you set the code on your system. 
+
+1. Python 3.6+ 
+2. Telegram Bot 
+
+For python installation, follow this guide to install the most popular distribution package, Anaconda: https://docs.anaconda.com/anaconda/install/windows/
+
+For creating Telegram Bot, follow the instructions as mentioned in this Medium Article. https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e
+
+Once these are setup, make sure you have following libraries installed in your python installation: 
+
+1. Requests 
+2. Datetime
+3. Json
+
+
+That's it. Once this is done, you are all set to go. 
